@@ -33,4 +33,4 @@ client.on('messageCreate', message => {
         dmlog.send(`**User** ${message.author.tag}\n **User ID** ${message.author.id}\n**Message** ${message.content}`)
     }
 })
-client.login("ODkwNjI3MTU2MDEzNjQ1ODU1.GktCVs.A6_ISKnCm03SD7x-EBe21D6ufPHUeN5jdVSsfo");
+client.login(client.config.token);
