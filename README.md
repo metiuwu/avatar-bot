@@ -1,6 +1,4 @@
-Novasy#0001 beni bannersın takımından attı kahpeligin sonu 
-
+discord'da onaylı botumun alt yapısı. 
 
 bir hata olursa metiuwxd
-
-
+<3
